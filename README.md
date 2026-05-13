@@ -2,13 +2,13 @@
 # Hi there, I'm Zaki Gervero 👋
 
 ## About Me
-I am **Zaki Gervero**, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the **BS Information Technology** program.
+I am **Zaki Gervero**, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
 
 ---
 
 ## 🎓 Education
 **Bachelor of Science in Information Technology**  
-:contentReference[oaicite:0]{index=0}  
+New Era University  
 2021 - Present
 
 ---
@@ -47,5 +47,4 @@ I am **Zaki Gervero**, with a flair for coding and database management skills. I
 - Enhance my software development skills
 - Learn more about cloud technologies and database systems
 - Build impactful and efficient applications
-
 ```
