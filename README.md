@@ -1,4 +1,6 @@
-```md
+
+Paste only this into the README editor:
+
 # Hi there, I'm Zaki Gervero 👋
 
 ## About Me
@@ -47,4 +49,3 @@ New Era University
 - Enhance my software development skills
 - Learn more about cloud technologies and database systems
 - Build impactful and efficient applications
-```
